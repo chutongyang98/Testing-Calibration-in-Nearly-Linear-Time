@@ -1,4 +1,4 @@
-# Testing Calibration in Subquadratic Time
+# Testing Calibration in Nearly-Linear Time
 
 The most important methods can be found in demo.ipynb. In demo.ipynb, We have methods for S<sub>0</sub> and S<sub>base</sub> and our box simplex implementation. These methods are used throughout our experiments.
 
